@@ -20,6 +20,9 @@
 
 <img width="514" height="189" alt="image" src="https://github.com/user-attachments/assets/5d272019-fea2-41d1-b11c-ee494e372360" />
 
+
+пишем плейбук
+
 <img width="555" height="451" alt="image" src="https://github.com/user-attachments/assets/a5a637b2-2636-44c9-95bc-25aaa2542460" />
 
 
